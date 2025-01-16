@@ -1,0 +1,63 @@
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\bin\Debug\net6.0\appsettings.Development.json
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\bin\Debug\net6.0\appsettings.json
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\bin\Debug\net6.0\MasterEvents.exe
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\bin\Debug\net6.0\MasterEvents.deps.json
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\bin\Debug\net6.0\MasterEvents.runtimeconfig.json
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\bin\Debug\net6.0\MasterEvents.dll
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\bin\Debug\net6.0\MasterEvents.pdb
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\bin\Debug\net6.0\Microsoft.OpenApi.dll
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEvents.csproj.AssemblyReference.cache
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEvents.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEvents.AssemblyInfoInputs.cache
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEvents.AssemblyInfo.cs
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEvents.csproj.CoreCompileInputs.cache
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEvents.MvcApplicationPartsAssemblyInfo.cs
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEvents.MvcApplicationPartsAssemblyInfo.cache
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\obj\Debug\net6.0\staticwebassets.build.json
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\obj\Debug\net6.0\staticwebassets.development.json
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\obj\Debug\net6.0\scopedcss\bundle\MasterEvents.styles.css
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEvents.csproj.CopyComplete
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEvents.dll
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\obj\Debug\net6.0\refint\MasterEvents.dll
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEvents.pdb
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEvents.genruntimeconfig.cache
+L:\שנה ב\Ai\אודיה עשור\הפרויקטטטטטטטט\MasterEvents\MasterEvents\obj\Debug\net6.0\ref\MasterEvents.dll
+D:\c#\MasterEvents\MasterEvents\bin\Debug\net6.0\appsettings.Development.json
+D:\c#\MasterEvents\MasterEvents\bin\Debug\net6.0\appsettings.json
+D:\c#\MasterEvents\MasterEvents\bin\Debug\net6.0\MasterEvents.staticwebassets.endpoints.json
+D:\c#\MasterEvents\MasterEvents\bin\Debug\net6.0\MasterEvents.exe
+D:\c#\MasterEvents\MasterEvents\bin\Debug\net6.0\MasterEvents.deps.json
+D:\c#\MasterEvents\MasterEvents\bin\Debug\net6.0\MasterEvents.runtimeconfig.json
+D:\c#\MasterEvents\MasterEvents\bin\Debug\net6.0\MasterEvents.dll
+D:\c#\MasterEvents\MasterEvents\bin\Debug\net6.0\MasterEvents.pdb
+D:\c#\MasterEvents\MasterEvents\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\c#\MasterEvents\MasterEvents\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\c#\MasterEvents\MasterEvents\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\c#\MasterEvents\MasterEvents\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEvents.csproj.AssemblyReference.cache
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEvents.AssemblyInfoInputs.cache
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEvents.AssemblyInfo.cs
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEvents.csproj.CoreCompileInputs.cache
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEvents.MvcApplicationPartsAssemblyInfo.cs
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEvents.MvcApplicationPartsAssemblyInfo.cache
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\scopedcss\bundle\MasterEvents.styles.css
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\staticwebassets.build.json
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\staticwebassets.development.json
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\staticwebassets\msbuild.MasterEvents.Microsoft.AspNetCore.StaticWebAssets.props
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\staticwebassets\msbuild.MasterEvents.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\staticwebassets\msbuild.build.MasterEvents.props
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MasterEvents.props
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MasterEvents.props
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\staticwebassets.pack.json
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEv.F5A44B5F.Up2Date
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEvents.dll
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\refint\MasterEvents.dll
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEvents.pdb
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\MasterEvents.genruntimeconfig.cache
+D:\c#\MasterEvents\MasterEvents\obj\Debug\net6.0\ref\MasterEvents.dll
