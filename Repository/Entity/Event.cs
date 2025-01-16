@@ -8,7 +8,7 @@ namespace Repository.Entity
 {
     public class Event
     {
-        public string id { get; set; }//בודקת אם זה עובד
+        public string id { get; set; }//בודקת
         public string organizerId { get; set; }
         public string eventName { get; set; }
         public DateTime eventDate { get; set; }
